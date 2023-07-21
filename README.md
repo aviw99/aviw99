@@ -12,6 +12,9 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-%2300BFFF.svg?style=for-the-badge&logo=django&logoColor=white)
 <br>
+![REST API](https://img.shields.io/badge/REST%20API-%2300FF7F.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230071C5.svg?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
